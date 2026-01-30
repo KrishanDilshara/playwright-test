@@ -1,0 +1,2 @@
+# playwright-test
+check singlish
